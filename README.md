@@ -5,7 +5,7 @@ A template of Next.js project using TypeScript, Eslint, Eslint plugin for Tailwi
 ## Table of contents
 
 - [Installation](#installation)
-- [Usage](#usage)
+<!--- - [Usage](#usage) --->
 
 ## Installation
 
